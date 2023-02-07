@@ -2,7 +2,7 @@
 
 ===================================
 
-*조원 : 이소강, 박주안, 이정규, 박거량, 손지석*
+*조원 : 이소강, 박강우, 남보라, 손지석, 임수빈*
 
 *기술 스택 : <img src="https://img.shields.io/badge/Python-E34F26?style=for-the-badge&logo=python&logoColor=white">, <img src="https://img.shields.io/badge/TensorFlow-E34F26?style=for-the-badge&logo=TensorFlow&logoColor=white">, <img src="https://img.shields.io/badge/Selenium-E34F26?style=for-the-badge&logo=Selenium&logoColor=white">, <img src="https://img.shields.io/badge/pandas-E34F26?style=for-the-badge&logo=pandas&logoColor=white">*
 
